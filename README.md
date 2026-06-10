@@ -1,10 +1,5 @@
 # Software Becoming Weights
-
-Compiling a job-shop scheduler into transformer weights, so the model executes it token by token — with a trace you can verify.
-
-Arturo Rodrigues
-2026
-9 min read
+By Arturo Rodrigues
 
 ## The Problem
 
